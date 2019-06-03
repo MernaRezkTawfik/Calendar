@@ -1,0 +1,6 @@
+E:\EFG\EFG_Calendar\Calendar\CalendarSystem.Application.Tests\bin\Debug\CalendarSystem.Application.Tests.dll
+E:\EFG\EFG_Calendar\Calendar\CalendarSystem.Application.Tests\bin\Debug\CalendarSystem.Application.Tests.pdb
+E:\EFG\EFG_Calendar\Calendar\CalendarSystem.Application.Tests\obj\Debug\CalendarSystem.Application.Tests.csprojAssemblyReference.cache
+E:\EFG\EFG_Calendar\Calendar\CalendarSystem.Application.Tests\obj\Debug\CalendarSystem.Application.Tests.csproj.CoreCompileInputs.cache
+E:\EFG\EFG_Calendar\Calendar\CalendarSystem.Application.Tests\obj\Debug\CalendarSystem.Application.Tests.dll
+E:\EFG\EFG_Calendar\Calendar\CalendarSystem.Application.Tests\obj\Debug\CalendarSystem.Application.Tests.pdb
